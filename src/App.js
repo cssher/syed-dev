@@ -215,7 +215,7 @@ export default function App(props) {
               className={classes.resumeButton}
               onClick={() => {
                 loadResume(
-                  "https://drive.google.com/file/d/132OfaQazNQ-cdLC-mZpibP5Oy_XSC8Jr/view?usp=sharing"
+                  "https://drive.google.com/file/d/1fdHHfWUH786V2RQcIigR-4kaI8OXnNa9/view?usp=sharing"
                 );
               }}
             >
