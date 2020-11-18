@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+#project {
+  background-color: #0a192f;
+  font-family: "Rubik", sans-serif;
+  padding: 20px;
+}
+
+#project h1 {
+  color: #00c9aa;
+  font-size: 2em;
+  margin: auto;
+  text-align: center;
+  padding: 5px;
+}

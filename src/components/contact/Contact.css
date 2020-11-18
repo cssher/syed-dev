@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+#contact {
+  background-color: #0a192f;
+  font-family: "Rubik", sans-serif;
+  padding: 20px;
+}
+
+#contact h1 {
+  text-align: center;
+  color: #00c9aa;
+  font-size: 2em;
+  margin: auto;
+  text-align: center;
+  padding: 10px;
+  border-bottom: 2px solid #00c9aa;
+}
+
+#contact a {
+  color: #00c9aa;
+  margin: auto;
+  font-family: "Rubik", sans-serif;
+  font-size: 1.5em;
+  text-decoration: none;
+}
