@@ -1,4 +1,5 @@
-First Iteration of my portfolio website 
-https://cssher.github.io/syed-dev/
+First Iteration of my portfolio website.
+
+Live : https://cssher.github.io/syed-dev/
 
 Built using React.js
